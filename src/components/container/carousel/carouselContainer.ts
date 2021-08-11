@@ -7,4 +7,9 @@ export const CarouselContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+
+  @media (max-width: 870px) {
+    background-image: unset;
+    height: unset;
+  }
 `;

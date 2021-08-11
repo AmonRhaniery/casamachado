@@ -16,4 +16,8 @@ export const BootstrapCarousel = styled(Carousel)`
     background-color: ${BLACK};
     border-radius: 10px;
   }
+
+  @media (min-width: 870px) {
+    width: 100%;
+  }
 `;

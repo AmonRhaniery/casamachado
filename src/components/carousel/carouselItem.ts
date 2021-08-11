@@ -10,4 +10,9 @@ export const CarouselItem = styled(Carousel.Item)`
   &.active {
     display: flex;
   }
+
+  @media (max-width: 870px) {
+    width: 100%;
+    height: unset;
+  }
 `;

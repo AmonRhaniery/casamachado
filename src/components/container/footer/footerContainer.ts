@@ -15,4 +15,10 @@ export const FooterContainer = styled.div`
   //left: 0px;
   //top: 869px;
   background: ${BLACK};
+
+  @media (max-width: 870px) {
+    flex-direction: column;
+    height: 250px;
+    padding: 20px;
+  }
 `;

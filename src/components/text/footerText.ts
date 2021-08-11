@@ -15,4 +15,8 @@ export const FooterText = styled.p`
   @media (min-width: 1500px) {
     font-size: 18px;
   }
+
+  @media (max-width: 870px) {
+    text-align: center;
+  }
 `;

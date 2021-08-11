@@ -12,4 +12,8 @@ export const HeaderContainer = styled.div`
   height: calc(23vh);
 
   background: ${BLACK};
+
+  @media (max-width: 500px) {
+    padding: 4% 0px;
+  }
 `;
