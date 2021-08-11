@@ -27,7 +27,7 @@ function App() {
           <a href="http://wa.me/+5561999542605">
             <WppImg src="wpp.png" alt="wpp" />{" "}
           </a>
-          <FooterText>(61) 9 9954-2605</FooterText>
+          <FooterText>(61) 99954-2605</FooterText>
         </WppContainer>
       </Footer>
     </HomeContainer>
