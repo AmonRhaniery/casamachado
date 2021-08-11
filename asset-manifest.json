@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/casamachado/static/js/main.6ee5c06d.chunk.js",
+    "main.js.map": "/casamachado/static/js/main.6ee5c06d.chunk.js.map",
+    "runtime-main.js": "/casamachado/static/js/runtime-main.a5cbd70a.js",
+    "runtime-main.js.map": "/casamachado/static/js/runtime-main.a5cbd70a.js.map",
+    "static/js/2.7d1eab0a.chunk.js": "/casamachado/static/js/2.7d1eab0a.chunk.js",
+    "static/js/2.7d1eab0a.chunk.js.map": "/casamachado/static/js/2.7d1eab0a.chunk.js.map",
+    "static/js/3.0879d944.chunk.js": "/casamachado/static/js/3.0879d944.chunk.js",
+    "static/js/3.0879d944.chunk.js.map": "/casamachado/static/js/3.0879d944.chunk.js.map",
+    "index.html": "/casamachado/index.html",
+    "static/js/2.7d1eab0a.chunk.js.LICENSE.txt": "/casamachado/static/js/2.7d1eab0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5cbd70a.js",
+    "static/js/2.7d1eab0a.chunk.js",
+    "static/js/main.6ee5c06d.chunk.js"
+  ]
+}
