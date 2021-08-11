@@ -5,7 +5,7 @@ export const WppContainer = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 180px;
+  width: 170px;
 
   @media (min-width: 1500px) {
     width: 200px;

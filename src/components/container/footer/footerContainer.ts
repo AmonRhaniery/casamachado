@@ -6,8 +6,8 @@ export const FooterContainer = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding-left: calc(16vw / 9.4);
-  padding-right: calc(16vw / 9.4);
+  padding-left: calc(20vw / 9.4);
+  padding-right: calc(20vw / 9.4);
 
   //position: absolute;
   //width: 1438px;
