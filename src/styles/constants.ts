@@ -1,0 +1,9 @@
+export const BLACK = "#343434";
+export const YELLOW = "#fbf314";
+export const BROWN = "#b56131";
+export const DARK_BROWN = "#7d3433";
+export const GREEN = "#7c9464";
+export const GRAY = "#e6e2dd";
+export const DARK_YELLOW = "#a09826";
+export const LESS_BLACK = "#3c382b";
+export const RED = "#f04545";
