@@ -1,7 +1,9 @@
 import styled from "styled-components";
 
 export const CarouselContainer = styled.div`
-  height: calc(676vh / 9.4);
+  height: 68vh;
   background-image: url("background.png");
   background-size: cover;
+  /*   display: flex;
+  align-items: center; */
 `;

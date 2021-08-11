@@ -9,7 +9,7 @@ export const HeaderContainer = styled.div`
   padding-top: calc(10vw / 14.4);
 
   width: 100%;
-  height: calc(180vw / 9.4);
+  height: calc(23vh);
 
   background: ${BLACK};
 `;

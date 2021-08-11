@@ -2,10 +2,11 @@ import { Carousel } from "react-bootstrap";
 import styled from "styled-components";
 
 export const CarouselItem = styled(Carousel.Item)`
-  //height: calc(500vh / 9.4);
+  height: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
+  justify-content: center;
   &.active {
     display: flex;
   }

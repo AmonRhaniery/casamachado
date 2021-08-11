@@ -7,7 +7,7 @@ export const Subtitle = styled.p`
   font-family: "Roboto";
   font-style: normal;
   font-weight: bold;
-  font-size: calc(16vw / 14.4);
+  font-size: calc(14vw / 14.4);
   /* identical to box height */
   text-align: center;
 
