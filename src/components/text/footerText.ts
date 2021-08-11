@@ -6,9 +6,13 @@ export const FooterText = styled.p`
   font-family: "Roboto";
   font-style: normal;
   font-weight: bold;
-  font-size: calc(18vw / 14.4);
+  font-size: 16px;
   //line-height: 28px;
   display: flex;
   align-items: center;
   color: ${GRAY};
+
+  @media (min-width: 1500px) {
+    font-size: 18px;
+  }
 `;

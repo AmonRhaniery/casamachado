@@ -5,5 +5,9 @@ export const WppContainer = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: calc(200vw / 14.4);
+  width: 180px;
+
+  @media (min-width: 1500px) {
+    width: 200px;
+  }
 `;
