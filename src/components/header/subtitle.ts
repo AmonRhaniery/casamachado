@@ -17,7 +17,7 @@ export const Subtitle = styled.p`
   border-radius: calc(5vw / 5);
   padding: calc(5vw / 5) calc(10vw / 5);
 
-  @media (min-width: 500px) {
+  @media (min-width: 300px) {
     border-radius: 5px;
     padding: calc(5vh / 9.4) calc(10vh / 9.4);
     font-size: calc(14vh / 9.4);
